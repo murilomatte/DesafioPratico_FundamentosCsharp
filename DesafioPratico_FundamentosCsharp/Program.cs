@@ -20,6 +20,8 @@ class Program
                 CalculadoraSimples.Executar();
             else if (escolha == "3")
                 ContaCaracteres.Executar();
+            else if (escolha == "4")
+                PlacaVeiculo.Executar();
             else if (escolha == "5")
                 DataAtual.Executar();
             else
